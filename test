@@ -1,0 +1,15 @@
+<html>
+    <head> 
+    <style>
+        p 
+        {
+            word-spacing: 35px;
+        }
+        </style>
+    <body><img src="imagges/logo.png" style="width:70px;height:61
+        px;"></body>
+        <p>About. Work. Other.</p>
+        
+        
+    </head>
+   </html>

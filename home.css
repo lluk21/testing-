@@ -1,0 +1,41 @@
+p{
+    word-spacing: 35px;
+}
+li{
+    margin: 120px 0;
+}
+.shift{
+    margin-left:140px;
+}
+ul{ 
+    float:left;
+}
+
+#stairs{
+    padding:10px;
+    margin-top: 100px;
+    padding-left:420px
+}
+#secondphoto{
+    
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 420
+}
+#motion{
+    padding: 10px;
+    margin-top: 20px;
+    padding-left:420px
+}
+#components{
+    padding: 10px;
+    margin-top: 20px;
+    padding-left:420px
+    
+}
+#render{
+     padding: 10px;
+    margin-top: 20px;
+    padding-left:420px
+    
+}
